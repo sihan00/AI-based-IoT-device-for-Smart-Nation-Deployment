@@ -23,4 +23,4 @@ Released in March 2019, the Dev Board has an embedded Edge tensor processing uni
 ## Conclusion
 
 Implementation was feasible and successful, though met with many compatibility errors with hardware. 
-Most available documentation are image-based projects, my project expands existing applications. 
+Most available documentation are image-based projects, this project expands existing applications. 
