@@ -1,6 +1,8 @@
 # AI-based-IoT-device-for-Smart-Nation-Deployment
 Si Han's Final Year Project, NTU EEE, AY2019/20 (A3089-191)
 
+Video presentation link: https://youtu.be/1tVmpO_mkP4
+
 ## Aims: 
 
 1. A project to implement a real-time audio classification system on the new platform of Google Coral.
